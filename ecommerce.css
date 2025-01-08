@@ -1,0 +1,42 @@
+.ecommerce-top-section-heading{
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: goldenrod;
+}
+.ecommerce-top-section-img{
+    width: 500px;
+    height: 150px;
+}
+.ecommerce-bottom-section{
+    background-color: #aacde0;
+    height: 850px;
+    width: 500px;
+    padding: 10px;
+    text-align: center;
+}
+.ecommerce-card-items{
+    text-align: center;
+    width: 150px;
+    background-color: white;
+    border-radius: 15px;
+    margin: 15px;
+    padding: 10px;
+
+}
+.ecommerce-card-img{
+    height: 65px;
+    width: 80px;
+    margin: 10px;
+}
+.ecommerce-card-name{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color:grey;
+}
+.ecommerce-card-price{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: 15px;
+    margin: 10px;
+}
